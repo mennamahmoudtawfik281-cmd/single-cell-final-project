@@ -1,0 +1,17 @@
+# Data files
+data/
+
+# R history and workspace
+.Rhistory
+.RData
+.Ruserdata
+
+# RStudio files
+.Rproj.user/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Jupyter files
+.ipynb_checkpoints/
