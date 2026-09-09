@@ -1,10 +1,11 @@
-# Data files
+# Raw and processed single-cell data
 data/
 
-# R history and workspace
+# R workspace and history
 .Rhistory
 .RData
 .Ruserdata
+*.RData
 
 # RStudio files
 .Rproj.user/
