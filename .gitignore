@@ -16,3 +16,5 @@ data/
 
 # Jupyter files
 .ipynb_checkpoints/
+results/cellchat_Control.rds
+results/cellchat_HD.rds
