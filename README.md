@@ -254,7 +254,7 @@ Following the paper, a cluster was removed if **one donor contributed more than 
 
 **Before vs after integration, by condition.** Before Harmony, nuclei separate by sample. After Harmony, they group by cell type, and HD and control nuclei overlap.
 
-![Before vs after integration, condition](<figures/Integration/UMAP Before After Integration -by Condition.jpg>)
+![Before vs after integration, condition](<figures/Integration/UMAP Before and After Intergation -by Condition.jpg>)
 
 **Before vs after integration, by region.** Some regional separation remains after integration. This is expected, because the four regions contain different cell types (for example, cerebellar granule cells).
 
@@ -474,7 +474,7 @@ figures/UMAP_all_subclusters.png
 - **Caudate and frontal cortex:** oligodendrocytes are higher in HD (CN 39.9% → 53.2%; IFG 24.5% → 31.1%).
 - **Hippocampus and frontal cortex:** microglia are lower in HD (HIP 11.0% → 5.0%; IFG 6.8% → 3.9%).
 
-![Glial proportions, HD vs control](<results/figures/DA/DA_glial_proportions.png>)
+![Glial proportions, HD vs control](<figures/DA/DA_glial_proportions.png>)
 
 **Conclusion:** Glial abundance does not clearly change with HD at this sample size. Because proportions are shares of all nuclei, a higher oligodendrocyte share in HD caudate may partly reflect neuronal loss rather than more glia. The HD effects in this dataset show up more in gene expression and signalling than in cell numbers.
 **Outputs:** `results/DA/DA_final_results.csv`, `results/figures/DA/DA_glial_proportions.png`
